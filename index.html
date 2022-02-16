@@ -6,8 +6,8 @@
     <meta content="width=device-width, initial-scale=1, shrink-to-fit=no" name="viewport">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <title>Beta version of the Database</title>
-    <meta name="author" content="AISD">
-    <meta content="Beta version of the Database">
+    <meta name="author" content="DISolv">
+    <meta content="DISolv">
 
     <!-- Bootstrap core CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS"
@@ -19,9 +19,13 @@
     <div class="container-fluid">
         <main class="row">
             <div class="col">
-                <h1>Beta version of the Database</h1>
+                <h1>DISolv</h1>
 
-                <p>Beta version of the Databases.
+                <p>Database of Ionic Solvation.
+                </p>
+                <p>Reference states:
+                    dG_gas: temperature 298.15 K, pressure 1 atm
+                    dG_solv, pKa: temperature 298.15 K, 1 M gas 1 M solution
                 </p>
 
                 <div id="table-container"></div>
@@ -63,7 +67,8 @@
             ]
         });
     </script>
-    <p>Here is some information regarding the sources, references, level of methods etc...</p>
+    <p>dG_gas: DLPNO-CCSD(T)/CBS//B2PLYP/aug-cc-pVTZ
+    <p>dG_solv_water: experimental values (see ref), dG_solv_dmso, dG_solv_acetonitrile, dG_solv_methanol: COSMO-RS TZVPD-FINE, </p>
 </body>
 
 </html>
