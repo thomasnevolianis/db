@@ -1,4 +1,4 @@
-Number;IUPAC_name;Charge;Molecular Formula;Molecular Weight [g/mol];Isomeric SMILES;Pubchem CID;?G_gas [kcal/mol];?G_Solv_Ion_Water [kcal/mol];?G_Solv_Ion_DMSO [kcal/mol];?G_Solv_Ion_Acetonitrile [kcal/mol];?G_Solv_Ion_MeOH [kcal/mol];?G_Solv_Water [kcal/mol];?G_Solv_DMSO [kcal/mol];?G_Solv_Acetonitrile [kcal/mol];?G_Solv_MeOH [kcal/mol];pka_water;pka_DMSO;pka_Acetonitrile;pka_MeOH
+Number;IUPAC_name;Charge;Molecular Formula;Molecular Weight [g/mol];Isomeric SMILES;Pubchem CID;dG_gas [kcal/mol];dG_Solv_Ion_Water [kcal/mol];dG_Solv_Ion_DMSO [kcal/mol];dG_Solv_Ion_Acetonitrile [kcal/mol];dG_Solv_Ion_MeOH [kcal/mol];dG_Solv_Water [kcal/mol];?G_Solv_DMSO [kcal/mol];dG_Solv_Acetonitrile [kcal/mol];dG_Solv_MeOH [kcal/mol];pka_water;pka_DMSO;pka_Acetonitrile;pka_MeOH
 1;acetylene;-1;C2H2;26.04;C#C;6326;371.6057649;-80.97627024;;;;0;-2.30238409;-2.16888776;-1.74038127;21.7;;;
 2;methanamine;1;CH5N;31.057;CN;6329;206.8903036;-73.19332052;-72.00344408;-82.26660521;-73.88913882;-4.6;-2.86432643;-3.03024055;-4.75002117;10.6;11;18.4;11
 3;propan-1-amine;1;C3H9N;59.11;CCCN;7852;212.0020711;-67.88155301;;-77.5692419;;-4.4;-3.34967271;-3.71754331;-5.37130582;10.6;;18.2;
